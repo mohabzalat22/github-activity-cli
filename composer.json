@@ -1,0 +1,20 @@
+{
+  "name": "mohab/github-cli",
+  "description": "php github cli tool",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/Src/",
+      "Console\\": "app/Console/"
+    }
+  },
+  "authors": [
+    {
+      "name": "mohabzalat22",
+      "email": "mohabzalat20@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
